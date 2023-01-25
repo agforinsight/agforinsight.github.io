@@ -1,7 +1,7 @@
 ---
 title: 'Privacy Policy'
 layout: page
-guid: 'http://www.agforinsight.com/privacy-policy'
+permalink: /privacy-policy/
 ---
 
 ### Who we are

@@ -16,13 +16,7 @@
 
       <p><strong>Contact</strong></p>
       <ul class="social-media-list">
-        <li>
-          <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">{{ site.email }}</span>
-          </a>
-        </li>
-
+        
         {% for social in site.social %}
           {% if social.url != "" %}
           <li>
@@ -39,7 +33,8 @@
 
     <div class="site-signature">
       <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+      <p class="rss-subscribe text"><strong><a href="{{ "/terms-of-use" | prepend: site.baseurl }}">Terms of Use</a></strong></p>
+      <p class="rss-subscribe text"><strong><a href="{{ "/privacy-policy" | prepend: site.baseurl }}">Privacy Policy</a></strong></p>
     </div>
 
   </div>

@@ -4,7 +4,6 @@ date: '2022-05-12T18:21:00-04:00'
 author: 'George Powell'
 excerpt: 'A check up on the use of trees on British Columbia (BC) farms for production and conservation'
 layout: post
-guid: 'https://www.agforinsight.com/trees-on-farms-in-british-columbia-2021'
 permalink: /trees-on-farms-in-british-columbia-2021/
 
 categories:
@@ -47,7 +46,7 @@ Tree fruit production in BC is still highly concentrated within the Okanagan and
 
 Domestic markets are important for fruit and nut sales, but export markets are on the rise. The large expansion over the past 10 years in sweet cherry plantings can be almost wholly attributed to exports to asia where demand remains strong for these high quality soft fruits.
 
-### **Forest Products Sales**?
+### **Forest Products Sales?**
 
 Forest product sales from BC farms rose over 40% from 2011 to 2016 to $6.3 million. This represents about 9% of the total sales of forest products from farmland across Canada. A large increase in raw log sales from farms reflect, in part, shrinking supplies from Crown lands. And this is due, in part, to where the mountain pine beetle has run its course and salvage harvest volumes are declining. Overall however, wood sales from farms in BC remains a very small proportion of the total annual timber harvest. And sales from farmland have not yet rebounded to pre-pine beetle levels.
 

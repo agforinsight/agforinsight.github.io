@@ -1,10 +1,7 @@
 ---
-id: 789
 title: 'Terms of Use'
-date: '2019-05-02T09:28:57-04:00'
-author: 'George Powell'
 layout: page
-guid: 'http://www.agforinsight.com/?page_id=789'
+permalink: /terms-of-use/
 ---
 
 The following conditions apply to your use of this web site. By accessing [AgForInsight.com](http://www.agforinsight.com), you agree to be bound by them. If you do not agree with these terms of use, please do not access this website. The website owner reserves the right to modify these terms at any time, without prior notification.
