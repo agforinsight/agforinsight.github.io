@@ -5,7 +5,6 @@ author: 'George Powell'
 excerpt: 'A check up on the use of trees on British Columbia (BC) farms for production and conservation'
 layout: post
 permalink: /trees-on-farms-in-british-columbia-2021/
-
 categories:
     - Agriculture
     - Agroforestry
