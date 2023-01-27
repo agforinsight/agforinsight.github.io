@@ -18,12 +18,7 @@ inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
-# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-pagination:
-  enabled: true
-  per_page: 3
-  permalink: "/page/:num/"
-  sort_reverse: true
+paginate: 5
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 #jekyll-archives:
