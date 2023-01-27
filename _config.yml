@@ -1,6 +1,6 @@
 # Site settings
-title: AgForInsight
-subtitle: "Innovative Natural Resource Management Solutions"
+title: Dr. George W. Powell, Ph.D.
+subtitle: "Independent Consulting Agrologist"
 name: Dr. George W. Powell, Ph.D.
 description: >
   Independent Consulting Agrologist
@@ -21,28 +21,24 @@ highlightjs_theme: "monokai-sublime"
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 3
   permalink: "/page/:num/"
   sort_reverse: true
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+#jekyll-archives:
+#  enabled: 
+#    - categories
+#  layout: archive
+#  permalinks:
+#    category: '/category/:name/'
 
-# Disqus comments
-# disqus_shortname: bencentra
-
+category_archive:
+  type: liquid
+  path: /categories/   
+    
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-
+ga_tracking_id: "UA-25771851-1"
 
 # Social icons and sharing options
 #
