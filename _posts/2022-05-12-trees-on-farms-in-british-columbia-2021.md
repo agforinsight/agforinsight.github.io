@@ -1,6 +1,6 @@
 ---
-title: 'Trees on Farms in British Columbia; Updated With 2021 Census Data'
-date: '2022-05-12T18:21:00-04:00'
+title: 'Trees on Farms in British Columbia - Updated'
+date: '2022-05-12T18:21'
 author: 'George Powell'
 excerpt: 'A check up on the use of trees on British Columbia (BC) farms for production and conservation'
 layout: post
