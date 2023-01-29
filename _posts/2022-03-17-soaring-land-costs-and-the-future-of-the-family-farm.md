@@ -4,7 +4,7 @@ date: '2022-03-17T14:46:00-04:00'
 author: 'George Powell'
 excerpt: 'In the past two decades farmland has become a desired ‘asset class’ among investors. This has been coupled with cheap money stemming from the hyper-inflationary monetary policies of the Bank of Canada. And, as a result, investors bidding up the price of farmland beyond what would be expected based on its intrinsic value to produce food and other goods.'
 layout: post
-permalink: /index.php/2022/03/17/soaring-land-costs-and-the-future-of-the-family-farm/
+permalink: /soaring-land-costs-and-the-future-of-the-family-farm/
 categories:
     - Agriculture
 tags:
