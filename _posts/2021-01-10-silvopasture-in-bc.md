@@ -2,9 +2,9 @@
 title: 'Silvopasture in British Columbia'
 date: '2021-01-01T12:00:00-00:00'
 author: 'George Powell'
-excerpt: 'A check up on the use of trees on British Columbia (BC) farms for production and conservation'
+excerpt: 'Examples of how silvopasture is used in British Columbia (BC) for production and conservation.'
 layout: post
-permalink: /silvopasture-in-bc/
+permalink: /silvopasture/silvopasture-in-bc/
 categories:
     - Silvopasture
     - Agroforestry
