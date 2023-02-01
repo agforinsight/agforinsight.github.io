@@ -40,3 +40,20 @@ There are conventional agricultural producers that actively or passively resist 
 Agroforestry has tremendous potential as an integrated solution to complex problems. There is support available. There are fantastic models around the world in government agencies, universities and non-profit organizations. And these groups are models that can show the way forward.
 
 But for many producers trying to navigate their agroforestry enterprise into uncharted waters the barriers to support are real. A lack of clear support networks and regionally relevant information, infrastructure, financing outlets and government policies exists. And it can feel like fighting a perpetually head wind.
+
+![comments](/assets/images/scroll.png)
+
+### One comment on “Disadvantages of Agroforestry: Support”
+
+***
+
+**Keith Hunter** 15 November 2011 at 11:34 am
+
+> Good article George. I would comment that often institutional interests (and the resultant concerted efforts to meet and sustain their funding needs) has created a significant barrier to meeting actual enterprise level interests and needs for producer/enterprise support from what limited government funding support that exists.
+>
+>Often times the “professionalized academic-based” institutions and/or NGO/social enterprise based sectors actually compete for and/or exert significant and disapportionate influences on the limited government support that otherwise could be redirected to sector-led enterprise support and development decision making.
+
+***
+
+### Comments are closed.
+

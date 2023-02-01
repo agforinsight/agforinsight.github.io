@@ -44,3 +44,24 @@ Impressions of land management issues are now formulated in sound-bites and twee
 #### Rural-Urban Divide
 
 Because the public opinion tug of war is increasingly waged in the social media, it leaves producer groups and their reluctance to use new communication outlets with the weakest voic. But arguably, they have the strongest direct connection to the land. Only when we can remedy these social disconnections will the growing rural – urban divide begin to shrink.
+
+![comments](/assets/images/scroll.png)
+
+### Two comments on “Disconnected in the Golden Age of Wireless”
+
+***
+
+**Melanie** 5 December 2011 at 4:53 pm
+
+> Two very good observations!
+>
+> How about the use of social media to connect people and get urbanites out onto the land? Rather than seeing the social media tool as an agent that takes people away from it, can we flip this around and use it to re-engage and educate them and connect them to the folks with their boots in the dirt?
+
+**George Powell (responding to Melanie)** 5 December 2011 at 5:21 pm
+
+> Thank you Melanie. I don’t see social media and other ‘virtual’ interactions as something that necessarily takes people away from the land. But from my perspective there is a divide in who predominantly uses information technology, and as consequence the conversation is at times too one-sided. The rural-urban divide is being pulled wider by both sides. This post was an attempt at getting everyone to understand their own disconnections. I think we need to reengage a generation of urban people to the realities of land and resource issues. Rural communities, and people that make a living off the land, need to understand the realities of 21st century information flows and use social media more fully within their communication tools.
+
+***
+
+### Comments are closed.
+

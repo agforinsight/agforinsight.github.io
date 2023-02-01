@@ -39,3 +39,17 @@ Similar situations exist and can be used to explain the lack of forest farming s
 #### Agroforestry Tenures Are Required
 
 Compatible management is clearly superior to the conflict and resource management chaos of a more *laissez faire* management. And I’m not suggesting that agroforestry will supplant conventional timber and non-timber interests any time soon. But, if agroforestry is ever to really become firmly established as an option where the public owns and dictates land use standards, then new integrated agroforestry tenures need to be created. Then the costs and benefits will fall on the same balance sheet, and management can be dictated by a clearer system of risks and rewards.
+
+![comments](/assets/images/scroll.png)
+
+### One comment on “Agroforestry on Public Lands...”
+
+***
+
+**Keith Hunter** 17 March 2012 at 8:13 pm
+
+> I have uploaded the response I prepared to your very well written article. Our response is on our website.
+
+***
+
+### Comments are closed.

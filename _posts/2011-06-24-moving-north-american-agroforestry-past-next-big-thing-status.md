@@ -39,3 +39,17 @@ Continually characterizing agroforestry as novel seems like *politico*-speak for
 But for widespread recognition and adoption to occur, agroforestry proponents do not need to put yet another fresh coat of paint on the “Next Big Thing” banner. It’s time to move past talk and more substantively into action.
 
 Supportive policies, concrete research, development, and extension efforts are all needed. But more than anything, we need leaders -- political, academic and industry –- who will understand and vocalize agroforestry as a land use for the NOW and not just the future.
+
+![comments](/assets/images/scroll.png)
+
+### One comment on “Moving North American Agroforestry...”
+
+***
+
+**Keith Hunter** 25 June 2011 at 4:30 pm
+
+> Excellent article!!!
+
+***
+
+### Comments are closed.

@@ -84,3 +84,36 @@ These wild cranberries grow on small to mid-sized shrubs (approx. 0.5 to 2-m tal
 These exotic berries grow on a tall perennial plant with broad elliptical leaves alternating along arching stems. Clusters of small white to cream-coloured flowers form at the ends of the stems and develop into small, somewhat seedy berries. Immature berries are mottled green and brown. Berries are red when ripe.
 
 These wild foods are a favourite of bears. And because of that, it is sometimes difficult to find ripe berries in bear country. The ripe berries are extremely sweet and delicious, but when unripened they are inedible save for those with the strongest of stomachs.
+
+![comments](/assets/images/scroll.png)
+
+### Three comments on “Exotic Wild Berries and Fruits”
+
+***
+
+**Nibbles: Gossypium, Helianthus, Cacao, Berries, Heirlooms, Seminars**
+
+> Pingback: Exotic (North American) wild berries deconstructed. 
+
+***
+
+**Sharon Neufeld** 29 August 2011 at 9:22 am
+
+> I enjoy reading your posts thanks so much…
+> NTFP process continues here in Clearwater albight at a snails pace….First Nations process and MOU seems to hold things back. We had a bumper crop of black
+> huckleberries at the lower elevations but the higher vaccinium’s (above 800 feet) did not even get pollinated and what did will not likely ripen this year…
+> I wanted to ask if you have actually eaten the red elderberry as I have always avoided doing so for fear of gastric upset and if so is it after they have been cooked?
+> I would like to send info on the courses the WGCF is sponsoring this fall if you could post them on your site that would be great!! I (and the WGCF) have been working with Evelyn Pinkerton Masters Student Samantha Charleton this summer as she observes our progress on the development of NTFP and will no doubt come up with some interesting stuff.
+
+**George Powell (responding to Sharon Neufeld)** 29 August 2011 at 10:38 am
+
+> Hello Sharon,
+>
+> I have eaten red elderberries, and yes, unless you get them fully ripe, they can cause stomach problems for some. Boiling them to extract juice seems to help. As with all the wild fruits I highlighted in this post, they are meant as an exotic treat, not a dietary mainstay.
+>
+> I am always happy to post agroforestry/ntfp related news and information. You can email me directly or use the contact form on this site (I don’t post my email addy on the website to keep the spambots at bay).
+
+***
+
+### Comments are closed.
+

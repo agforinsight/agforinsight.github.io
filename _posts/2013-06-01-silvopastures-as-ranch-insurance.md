@@ -40,3 +40,17 @@ Making sustainable use of another renewable resource on the ranch provides insur
 Third, silvopastures, through the host of ecological goods and services (EG&amp;S) they provide, contribute to building and sustaining social insurance for individual ranches and the sector as a whole. Understandable, some producers may not relish the situation, but all must acknowledge the facts: if you live in a rural area, you are now in the minority. And if you farm or ranch, you are in the minority. The political power resides largely in urban centres. And without a constant and deliberate effort to build goodwill in communities, regions and nations, ranchers are more vulnerable to misguided policies. Policies that will wrap them too tight in red tape to move, let alone carry out their businesses sustainably and profitably.
 
 Silvopastures and all agroforestry, through providing EG&amp;S, aesthetics and other non-tangible benefits, contribute to sustaining the social license that the beef sector needs to keep operating in a world increasingly dominated by urban dwellers divorced from the realities of agriculture.
+
+![comments](/assets/images/scroll.png)
+
+### One comment on “Silvopastures as Ranch Insurance”
+
+***
+
+**MidAmerican Agroforestry Working Group** 14 June 2013 at 8:51 am via Twitter @agrof_maawg
+
+> Good #agroforestry article @Agforinsight blog where George Powell views silvopasture as “ranch insurance”
+
+***
+
+### Comments are closed.

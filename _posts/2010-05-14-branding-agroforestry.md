@@ -35,7 +35,7 @@ Our world is a world of information overload. A world of web 2.0-social-media-hy
 
 Standing still and hoping the world discovers your virtues is the equivalent of buying a lottery ticket as the foundation for your retirement planning.
 
-### Finding Commen Identity
+### Finding Common Identity
 
 If branding is part of the solution to elevating the profile of agroforestry. And if, through that, there is greater adoption and integration into mainstream agriculture and forestry, several challenges need to be overcome.
 
@@ -60,3 +60,17 @@ Indeed, so many groups use agroforestry to define disparate activities that it w
 And thirdly, for most regional and national jurisdictions, agroforestry lacks central ‘champions’ or leadership. Leadership is needed to articulate the advantages and to develop and shepherd ‘the brand’. Without it, much of what is voiced in support of agroforestry does not contribute to solidifying a positive reputation. Indeed, it often only adds to the background noise of the many other issues vying for public attention.
 
 And as any [billionaire, bad comb-over, real-estate developer ](https://en.wikipedia.org/wiki/Donald_Trump)will tell you, lose control of your brand and you will not likely get it back. It logically follows that if you are going to brand production or any socio-economic activity, then couple those efforts [with certification](http://www.agforinsight.com/agroforestry-certification/). Certification with standards and oversight bodies, much as the organic agriculture movement has done.
+
+![comments](/assets/images/scroll.png)
+
+### One comment on “Branding Agroforestry”
+
+***
+
+**Keith Hunter** 15 May 2010 at 8:10 pm
+
+> George: This is an excellent article you have written.
+
+***
+
+### Comments are closed.

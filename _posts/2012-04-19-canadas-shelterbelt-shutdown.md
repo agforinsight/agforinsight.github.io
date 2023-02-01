@@ -41,3 +41,31 @@ Re-organizing AAFC and looking for operating efficiencies by reducing the number
 Those with a strong *laisez-faire* political philosophy will argue that if shelterbelts deliver conservation and production benefits to land owners. Therefore, the individual producers should invest in them without government support. This ignores the fact however, that significant public benefits accrue from conservation-driven agroforestry on private land. These come in the form of clean air, soil and water conservation, preservation of biodiversity and the food security. Benefits that comes from a strong and stable agricultural sector. The technical support provided and the trees and shrubs distributed through the shelterbelt program were really only an incentive for the investment in on-farm conservation. Producers still made significant and ongoing investments of time and resources in planting and tending their shelterbelts. And they did so without compensation for the public ecological goods and services generated.
 
 This is sadly another example of laying waste to program that has delivered tangible benefits for over a century. This, instead of tackling the roots of government bloat. This may help achieve Canada’s short-term budgetary goals. But it could put the entire sector at increased risk as we move forward with uncertainties of climate change. The loss of the sheltbelt program is blow for agroforestry in Canada and undermines the foundations of sustainable agriculture.
+
+![comments](/assets/images/scroll.png)
+
+### Two comments on “Canada's Shelterbelt Shutdown”
+
+***
+
+**Laura** 22 April 2012 at 10:01 am
+
+> Thanks George,
+> Your article to date has been the most accurate, concise role out of the impacts of this decision. This is not just a prairie issue. We all need to question this one….
+> Good job on this piece. 
+
+***
+
+**Steve Williams** 26 April 2012 at 1:34 pm
+
+> One of the main reason’s me and my family chose Saskatchewan to start a new yard was because of the availability of tree’s. We had an opportunity to create the yard we have always dreamed of at a fraction of the cost. The land was cheap and barren but the tree’s were free. If we were willing to put in the time and effort, it was worth it. So we did!
+>
+>Tree’s are difficult to grow in this province and if we had to purchase a few thousand trees on our own, we probably would have just stayed in Alberta. Now that we are here, and our project is only 25% done, I don’t know what we’re going to do.
+>
+>Saskatchewan is already hard enough to grow tree’s, now it just got harder.
+
+***
+
+### Comments are closed.
+
+

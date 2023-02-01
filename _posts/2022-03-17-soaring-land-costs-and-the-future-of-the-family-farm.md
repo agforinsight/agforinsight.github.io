@@ -56,3 +56,34 @@ Agriculture, dominated by family farms, has been the backbone of the Province of
 Increasing corporate ownership of the land and loss of family farms can turn this upside down. Corporate ownership takes its profits to Bay Street and beyond. It also doesn’t need nor necessarily support rural jobs. Without local owner operators, large corporate farms increasingly rely on temporary foreign labour. And it doesn’t even care if the farmland it owns is farmed. Many would be just as happy to collect ‘ecological goods and services’ credits from the government or environmental NGOs for not farming.
 
 And this can lead to even greater reliance on food imports, with associated diminshment of our independence, rural social fabric and food security.
+
+![comments](/assets/images/scroll.png)
+
+### Three comments on “Soaring Land Costs...”
+
+***
+
+**Devin** 19 March 2022 at 9:21 am
+
+> Great post. Well thought out and presented. How do you think climate change will impact farm prices?
+
+**George Powell (responding to Devin)** 19 March 2022 at 9:47 am
+
+> Thanks taking time to read and comment Devin.
+>
+>The impacts of climate change on BC will vary by region. In some regions it could definitely diminish the productive capacity of farms and that would lower the land’s value for farming. For example, increasing flood frequency in the Fraser Valley is either going to drive up individual costs for insurance and repairs, or it will cost hundreds of millions to put in appropriate regional diking and drainage infrastructure. The closer you get to the delta, a higher risk of salt water incursion onto farmland comes into play from rising sea levels. And large areas of farmland in the southern interior will only be suited to seasonal livestock grazing unless water rights and irrigation are in place. Rain-fed agriculture is becoming a thing of the past.
+>
+>On the flip side, net-net, farmland in the central interior and northern BC will likely have increased productivity due to an improving climate. The winters are getting shorter and milder. That means a longer growing season and wider range of crops that can be profitably grown with better yields.
+>
+>However, given that one my main arguements is that farmland prices have decoupled to a large degree from the productivity of the land, perhaps it is all moot. I think macro factors outside of agriculture (e.g. monetary policy) are driving the price appreciation.
+
+***
+
+**Douglas Chen** 13 April 2022 at 3:26 pm
+
+> The Canadian monetary policy is on its turning point. Seems to me, productivity and access to a sustainable market are more fundamental factors than land costs and funding the young farmers shall consider before committing themselves to a farming life.
+
+***
+
+### Comments are closed.
+

@@ -33,7 +33,7 @@ The options outlined below include some general logistical considerations for es
 
 ### Options for Establishing Forest Farms
 
-#### *Optimizing Existing Potentials*
+#### Optimizing Existing Potentials
 
 Often the simplest establishment option is to cultivate adapted understory species. Or, alternately, manage and harvest non-timber components (NTC) from existing trees or shrubs in a closed-forest setting.
 
@@ -41,7 +41,7 @@ The advantages to this type of forest farming include the minimal need for estab
 
 But, that being said, these systems are good for NTCs that thrive with a full overstory. For example, wild ginger, ginseng and ferns. It is also good for producing non-timber products from trees (e.g. sap or nuts). This is can be done where management and health of the tree is generally proportional to a healthy yield of the non-timber components.
 
-#### *Manage Stand Density and Tree Form*
+#### Manage Stand Density and Tree Form
 
 This option is establishment by thinning forest stands to a lower density. And the thinning is often paired with pruning to open up the understory. This set-up is highly flexible to balance overstory and understory and therefore can be tailored to suit a wide range of tree-understory crop mixtures.
 
@@ -49,7 +49,7 @@ The thinning and pruning can provide direct tree growth benefits and increase lo
 
 These forest farming systems are good for NTCs that thrive with a partial overstory (e.g. huckleberries). The reduced canopy can work well in semi-arid regions. This because the partial shading slows evaporation from the soil. But it is not blocking solar input to the extent that it significantly depresses photosynthesis in the understory crop.
 
-#### *Modify Spatial Patterns*
+#### Modify Spatial Patterns
 
 The third general option for establishing forest farming involves manipulating the grouping of trees or tall shrubs on a site. This is done through either planting or thinning to create patches with gaps or small openings between.
 
@@ -60,3 +60,27 @@ This type of forest farming system is good for overstory trees that either don�
 These set-ups of patches and gaps may also mimic the natural patterns of open, fire-maintained forests. They therefore, can be used as an ecosystem restoration option which is much needed throughout western North America. [Fire suppression has created millions of hectares of unhealthy, in-grown forests](https://agforinsight.com/agroforestry-can-reduce-interface-fire-risk/). And these at an extremely high risk of succumbing to catastrophic wildfires.
 
 Forest farming and other agroforesty options are a practical solution to these multi-faceted land use issues.
+
+![comments](/assets/images/scroll.png)
+
+### Three comments on “Forest Farming Establishment Options”
+
+***
+
+**Daily Tweets for October 31, 2010 - Mast Tree Network**
+
+> Pingback 
+
+***
+
+**Mark Angelini** 8 November 2010 at 9:57 am
+
+> Great article. I’m enjoying the posts and information contained here, thanks for creating this resource — I will be following this regularly.
+
+**George Powell (responding to Mark Angelini)** 8 November 2010 at 10:22 am
+
+> Thanks Mark, glad you enjoyed the post.
+
+***
+
+### Comments are closed.

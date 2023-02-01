@@ -76,3 +76,22 @@ Only use early spring growth – these plants become increasingly bitter-tasting
 These tiny, 4 to 10 cm tall, perennial plants appear stemless, because leaf stalks emerge from below ground level. The heart-shaped leaves are hairless and have rounded teeth along the margins. Purple or occasionally white flowers form on leaf-less stalks.
 
 More common in eastern North America, these free seeding plants are one of the earliest spring flowers in many areas. Both the flowers and leaves are edible and can be used when young in salads or as garnish. Candied violet flowers can be made by preserving newly opened blooms with a coating of egg white and crystallized sugar.
+
+![comments](/assets/images/scroll.png)
+
+### Two comments on “More Edible Invasives”
+
+***
+
+**Leasia Korbel** 18 April 2011 at 3:40 pm
+
+> Thanks for these, I hope you continue to add more yard plants to the list!
+
+**George Powell (responding to Leasia Korbel)** 18 April 2011 at 4:43 pm
+
+> You are welcome Leasia. Glad you found the post useful.
+
+***
+
+### Comments are closed.
+
