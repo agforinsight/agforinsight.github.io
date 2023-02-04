@@ -4,6 +4,8 @@ date: '2019-05-08T11:18:11-04:00'
 author: 'George Powell'
 excerpt: 'Riparian health is a key concept for agricultural stewardship.  Riparian scores give a benchmark to track health through time as a measure against natural variability and your management inputs.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/RiparianHealth1-768x469.jpg
 permalink: /riparian-health-part-2/
 categories:
     - Agriculture

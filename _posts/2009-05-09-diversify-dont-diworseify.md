@@ -4,6 +4,8 @@ date: '2009-05-09T15:35:56-04:00'
 author: 'George Powell'
 excerpt: 'Diversification can be a double edged sword. Know yourself and your capacities to find winning business ideas.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/DiversifyDontDiworsify.jpg
 permalink: /diversify-dont-diworseify/
 categories:
     - Agriculture
@@ -15,7 +17,6 @@ tags:
     - 'green business'
     - 'niche markets'
 ---
-![Trees on Farms in BC](/assets/images/DiversifyDontDiworsify.jpg)
 
 *Diversification can be a double edged sword. Know yourself and your capacities to find winning business ideas.*
 

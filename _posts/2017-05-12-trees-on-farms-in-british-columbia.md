@@ -4,6 +4,8 @@ date: '2017-05-12T15:41:00-04:00'
 author: 'George Powell'
 excerpt: 'Tree use statistics for production and conservation on BC Farms from the 2016 Census of Agriculture.  Area planted to tree fruits and shelterbelts increasing. Forest product sales from farms up over 40%. Christmas tree plantings down, number of maple taps is up.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/trees-on-farms-in-BC-768x536.jpg
 permalink: /trees-on-farms-in-british-columbia/
 categories:
     - Agriculture
@@ -22,7 +24,6 @@ tags:
     - shelterbelt
     - windbreak
 ---
-![Trees on Farms in BC](/assets/images/trees-on-farms-in-BC-768x536.jpg)
 
 This week saw the release of the 2016 Census of Agriculture data. It provided an opportunity to check up on the use of trees on British Columbia (BC) farms for production and conservation. Unfortunately, there are no statistics gathered to help us determine what management systems are employed. Hence, the numbers presented here represent the use of trees in a blend of conventional horticulture, farm forestry and agroforestry.
 

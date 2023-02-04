@@ -4,6 +4,8 @@ date: '2010-03-12T13:53:36-05:00'
 author: 'George Powell'
 excerpt: 'With our heavy reliance on pollinators for a portion of global food supplies we need to boost native pollinators by diversifying our agricultural landscapes to better replicate natural conditions.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/conservationreservesforpollinators.jpg
 permalink: /use-conservation-reserves-to-boost-pollinators/
 categories:
     - 'Conservation'
@@ -19,7 +21,6 @@ tags:
     - Hedgerows
     - Shelterbelts
 ---
-![Pollinator Reserves](/assets/images/conservationreservesforpollinators.jpg)
 
 Bees are disappearing. Conservation reserves can help solve this problem.
 

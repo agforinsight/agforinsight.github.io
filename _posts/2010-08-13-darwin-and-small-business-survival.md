@@ -4,6 +4,8 @@ date: '2010-08-13T06:53:57-04:00'
 author: 'George Powell'
 excerpt: 'Surviving as an independent or small business is tough. Agricultural  entrepreneurs should recognize the survival of the fittest and tap into the network of small- and micro-business experience.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/DarwinandSmallBusiness-1-768x468.jpg
 permalink: /darwin-and-small-business-survival/
 categories:
     - Diversification
@@ -14,7 +16,6 @@ tags:
     - 'Small Business'
     - 'Survival of the Fittest'
 ---
-![Darwinism](/assets/images/DarwinandSmallBusiness-1-768x468.jpg)
 
 Those of us in a business tied to a natural resource sector, quickly gain an appreciation for the ups and downs of market cycles that drive investments and returns. Survival as an independent or small business is tough in any sector. And it is particularly challenging when the ‘goal posts’ keep moving.
 

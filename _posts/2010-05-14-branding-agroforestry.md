@@ -4,6 +4,8 @@ date: '2010-05-14T07:01:50-04:00'
 author: 'George Powell'
 excerpt: 'Does agroforestry suffer from an image problem, a lack of profile or maybe a little or a lot of both? If branding is part of the solution several challenges need to be overcome.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/brandingagroforestry.jpg
 permalink: /branding-agroforestry/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - 'green business'
     - marketing
 ---
-![Branding Agroforestry](/assets/images/brandingagroforestry.jpg)
 
 Many of today’s important issues revolve around society finding a balance. A balance between conservation and production. Or between growing economic opportunities and providing ecological services. And on all these fronts, and for many other issues, agroforestry systems offer practical solutions. Solutions that are readily adaptable and adoptable.
 

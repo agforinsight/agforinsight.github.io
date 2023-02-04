@@ -4,6 +4,8 @@ date: '2012-10-03T14:00:06-04:00'
 author: 'George Powell'
 excerpt: 'Bigger is not always better when it comes to food safety. The push for food ''safety'' may have paradoxically increased Canada''s food supply vulnerability by concentrating so much of our processing into so few operations.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/FoodSafetyParadox-768x512.jpg
 permalink: /index.php/2012/10/03/canadas-food-safety-paradox/
 categories:
     - Agriculture
@@ -15,7 +17,6 @@ tags:
     - 'meat processing'
     - 'XL Foods'
 ---
-![Food Safety Paradox](/assets/images/FoodSafetyParadox-768x512.jpg)
 
 Total Recall is not just the title of this past summer’s sci-fi blockbuster remake. It also aptly describes the ever expanding scramble to remove beef products processed by XL Foods from the pantries of the nation because of possible *E coli* contamination. This costly disruption to the food supply also highlights how quickly and extensively a lapse in standards at just one location can impact tens of thousands of consumers across the country. This incident is far from isolated; it was only a few short years ago that *listeria* outbreak originating in processed meats killed and caused illness in many. It exposes a fundamental weakness in having a highly centralized and concentrated food processing sector. And it also suggests that past decade of increased food processing standards, paradoxically, may be increasing the risk of spreading of food borne illness and contamination.
 

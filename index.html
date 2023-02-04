@@ -17,7 +17,6 @@ pagination:
 <div>
 </br>
 <h3 align="center">Providing Research, Analysis and Planning Support for Agriculture</h3>
-<p><img src="/assets/images/welcome.jpg" alt="Welcome" style="width:500px;height:300px;"></p>
 <hr>
 <h1 align="center">Latest Posts</h1>
 </div>
@@ -29,7 +28,8 @@ pagination:
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p class="author">
     <span class="date">{{ post.date }}</span>
-  </p>
+    <img src="{{ post.image | prepend: site.baseurl }}" alt="" class="blog-roll-image">
+  </p>  
 {% endfor %}
 </ul>
 

@@ -4,6 +4,8 @@ date: '2014-10-21T11:27:30-04:00'
 author: 'George Powell'
 excerpt: 'Beef cattle producers in British Columbia have access to new nutrient management research.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/nutrientmanagement-768x545.jpg
 permalink: /nutrient-management-planning-for-ranchers/
 categories:
     - Agriculture
@@ -12,7 +14,6 @@ tags:
     - 'nutrient management planning'
     - 'sustainable agriculture'
 ---
-![Nutrient Management Planning](/assets/images/nutrientmanagement-768x545.jpg)
 
 The British Columbia Ministry of Agriculture is sponsoring a research project to help better understand the amount of soil nutrients deposited on livestock feeding grounds in the interior of British Columbia. This information will be used to build reference values that can aid ranchers in understanding the carry-over fertilizer effects from manure and feed remnants deposited on seasonal feeding areas (sites used for pasture, hay or other crops during the growing season, and also for feeding, watering and bedding livestock in the dormant season).
 

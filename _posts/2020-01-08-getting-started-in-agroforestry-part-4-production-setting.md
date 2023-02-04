@@ -4,6 +4,8 @@ date: '2020-01-08T12:36:27-05:00'
 author: 'George Powell'
 excerpt: 'Getting started in agroforestry requires an assessment of your agroforestry production setting. This includes the biophysical potential, existing infrastructure and other resources, as well as the rules and regulations you must follow.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PreludetoPlanting-768x344.jpg
 permalink: /getting-started-in-agroforestry-part-4-production-setting/
 categories:
     - Agroforestry
@@ -17,7 +19,6 @@ tags:
     - regulation
     - water
 ---
-![Prelude to Planting](/assets/images/PreludetoPlanting-768x344.jpg)
 
 What can I grow here? I field inquiries related to the agroforestry production setting, more than any other. And, without doubt, if you can’t grow it you can’t sell it.
 

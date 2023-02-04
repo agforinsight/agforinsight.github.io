@@ -4,6 +4,8 @@ date: '2022-03-17T14:46:00-04:00'
 author: 'George Powell'
 excerpt: 'In the past two decades farmland has become a desired ‘asset class’ among investors. This has been coupled with cheap money stemming from the hyper-inflationary monetary policies of the Bank of Canada. And, as a result, investors bidding up the price of farmland beyond what would be expected based on its intrinsic value to produce food and other goods.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Reeve_and_Serfs-768x443.jpg
 permalink: /soaring-land-costs-and-the-future-of-the-family-farm/
 categories:
     - Agriculture
@@ -15,7 +17,6 @@ tags:
     - 'land costs'
     - 'land use'
 ---
-![Neofeudalism](/assets/images/Reeve_and_Serfs-768x443.jpg)
 
 Farm Credit Canada’s [annual report on farm values](https://www.fcc-fac.ca/en/knowledge/economics/farmland-values-report.html) revealed soaring farmland costs across the country in 2021. This is good news if you are intending on liquidating your farm holdings. But bad news if you are trying to get started in agriculture and for society as a whole.
 

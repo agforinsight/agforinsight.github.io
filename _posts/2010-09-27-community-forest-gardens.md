@@ -4,6 +4,8 @@ date: '2010-09-27T06:50:20-04:00'
 author: 'George Powell'
 excerpt: 'Community forest gardens can fulfill the all the roles of community gardens and contribute to food security, and also make the best use of space and become a source of ecological goods and services and visual aesthetics in the concrete jungle.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/communityforestgardens-768x739.jpg
 permalink: /community-forest-gardens/
 categories:
     - Agroforestry
@@ -14,7 +16,6 @@ tags:
     - 'forest farming'
     - 'forest garden'
 ---
-![Community Forest Garden](/assets/images/communityforestgardens-768x739.jpg)
 
 Food security is a growing concern. And not just over access to food, but access to healthful food. And rightly so. Global food systems are once again feeling the tremblings of supply interruptions. These stem from grain export bans in Russia and poor harvests due to drought and floods elsewhere. These are similar to the price shocks, hoarding and rioting that occurred in 2008 in the face of wheat and rice shortages. So, we may be in for another round of inflation in food costs. And this demands heightened food security awareness.
 

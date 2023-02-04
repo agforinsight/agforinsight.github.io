@@ -4,6 +4,8 @@ date: '2009-09-25T12:44:40-04:00'
 author: 'George Powell'
 excerpt: 'A well-planned agroforestry planting can buy you some valuable additional growing days by preventing radiative frosts.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/EndlessSummer-768x510.jpg
 permalink: /finding-an-endless-summer-with-agroforestry/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - frost
     - shelterbelt
 ---
-![Endless Summer](/assets/images/EndlessSummer-768x510.jpg)
 
 [Mike Hynson and Robert August](https://www.imdb.com/title/tt0060371/)‘s only tangential connection to agroforestry was perhaps in the old-school wooden surf boards they used. The ‘endless summer’ I chase however, is more of a reprieve from a summer-ending frost descending on the garden.
 

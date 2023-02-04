@@ -4,6 +4,8 @@ date: '2011-10-08T12:01:16-04:00'
 author: 'George Powell'
 excerpt: 'The greatest advantage and challenge for agroforestry is in the diversity and complexity of these integrated systems. A potential disadvantage for agroforestry production lies in the added planning and operational monitoring needed to make these systems successful.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/DisadvantagesofAgroforestry-768x736.jpg
 permalink: /disadvantages-of-agroforestry-complexity/
 categories:
     - Agroforestry
@@ -15,7 +17,6 @@ tags:
     - diversity
     - silvopasture
 ---
-![Disadvantages of Agroforestry](/assets/images/DisadvantagesofAgroforestry-768x736.jpg)
 
 [In my first post in this series](https://agforinsight.com/disadvantages-of-agroforestry-time/) on the disadvantages of agroforestry, I discussed how time can work against you. In this second post in the series I cover the complexities of complexity.
 

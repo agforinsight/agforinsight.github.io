@@ -3,6 +3,8 @@ title: 'Getting Started in Agroforestry: Part 5, Production System'
 date: '2020-01-11T10:47:08-05:00'
 author: 'George Powell'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PreludetoPlanting-768x344.jpg
 permalink: /getting-started-in-agroforestry-part-5-production-system/
 categories:
     - Agroforestry
@@ -18,7 +20,6 @@ tags:
     - shelterbelt
     - silvopasture
 ---
-![Prelude to Planting](/assets/images/PreludetoPlanting-768x344.jpg)
 
 Designing an agroforestry production system to fit your goals can be an excercise in frustration.
 

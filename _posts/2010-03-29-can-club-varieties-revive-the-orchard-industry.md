@@ -4,6 +4,8 @@ date: '2010-03-29T11:18:00-04:00'
 author: 'George Powell'
 excerpt: 'The latest strategy in the tree-fruit business to develop niche markets is in the form of patent-protected "club" varieties. It remains to be seen is if this model will work in the long run or will just shift competition from niche vs commodity apples, to several club varieties competing for shelf space.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Club-Varieties-768x499.jpg
 permalink: /can-club-varieties-revive-the-orchard-industry/
 categories:
     - Agriculture
@@ -15,7 +17,6 @@ tags:
     - horticulture
     - Markets
 ---
-![Club Varieties](/assets/images/Club-Varieties-768x499.jpg)
 
 Agribusiness has two major market themes to work with: low-volume, high-margin niches and the high-volume, low-margin (and unfortunately sometimes negative margin) commodity channels. Tree fruits fit this pattern, with recent history marked by flat sales and market share slipping away to the USA, New Zealand and the rapidly expanding Chinese sector. Despite the much touted local food movement of recent years, conventional domestic orchard offerings do not gain a price premium in the fresh fruit market and are being undercut by much cheaper imported juice concentrate in the processed market. I think many Canadians would be shocked to learn that prominent apple juice brands “made in Canada” are in fact primarily blended from Chinese concentrate.
 

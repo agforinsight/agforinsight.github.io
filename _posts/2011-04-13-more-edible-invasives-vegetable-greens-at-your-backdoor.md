@@ -2,8 +2,10 @@
 title: 'More Edible Invasives - Vegetable Greens at Your Backdoor'
 date: '2011-04-13T15:25:19-04:00'
 author: 'George Powell'
-excerpt: 'Four more backyard ''weeds'' that also exotic edibles, guaranteed to add a diversity to your diet, save you a few dollars on groceries and put you a few steps forward on a zero-mile diet: Stinging Nettle, Common Plantain, Sheperd''s Purse and Common Meadow Violet.'
+excerpt: 'Four more backyard weeds that are also exotic edibles, guaranteed to add a diversity to your diet, save you a few dollars on groceries and put you a few steps forward on a zero-mile diet: Stinging Nettle, Common Plantain, Sheperd''s Purse and Common Meadow Violet.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/MoreEdibleInvasives.jpg
 permalink: /more-edible-invasives-vegetable-greens-at-your-backdoor/
 categories:
     - Epicurian
@@ -16,12 +18,11 @@ tags:
     - weeds
     - 'zero mile diet'
 ---
-![More Edible Invasives](/assets/images/MoreEdibleInvasives.jpg)
 
 >Spring has sprung
-
+>
 >The grass has ris',
-
+>
 >I wonder where my backyard produce is.
 
 

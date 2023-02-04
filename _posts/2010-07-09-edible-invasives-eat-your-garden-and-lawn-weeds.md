@@ -4,6 +4,8 @@ date: '2010-07-09T09:55:53-04:00'
 author: 'George Powell'
 excerpt: 'Many common lawn and garden weeds are tasty, nutritious additions to summer fare. Enjoy the bounty of exotic edible greens at your doorstep including dandelions, wild mustard, chickweed, lamb''s quarters, purslane and clover.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/EdibleInvasives.jpg
 permalink: /edible-invasives-eat-your-garden-and-lawn-weeds/
 categories:
     - Epicurian
@@ -14,7 +16,6 @@ tags:
     - weeds
     - 'zero mile diet'
 ---
-![Edible Invasives](/assets/images/EdibleInvasives.jpg)
 
 Are you distracted by dandelions? Perturbed by purslane? Stressed by sorrels? Don’t spray and pray your garden and lawn weeds away. Pull out your fork and enjoy the bounty of exotic edible greens at your doorstep.
 

@@ -4,6 +4,8 @@ date: '2015-08-13T15:43:59-04:00'
 author: 'George Powell'
 excerpt: 'The BC Agroforestry Industry Development Initiative archives have moved.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AgroforestryBCArchives-300x195.png
 permalink: /new-home-for-agroforestry-bc-archives/
 categories:
     - Agroforestry
@@ -12,7 +14,6 @@ tags:
     - BC
     - 'British Columbia'
 ---
-![Agroforestry BC](/assets/images/AgroforestryBCArchives-300x195.png)
 
 It was my pleasure to facilitate the now defunct BC Agroforestry Industry Development Initiative from 2004 to 2013. The Initiative was also known as the ‘BC Agroforestry Initiative’, or simply ‘Agroforestry BC’ .
 

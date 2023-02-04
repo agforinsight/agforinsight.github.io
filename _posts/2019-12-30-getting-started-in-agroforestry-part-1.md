@@ -4,6 +4,8 @@ date: '2019-12-30T11:22:29-05:00'
 author: 'George Powell'
 excerpt: 'Planning agroforestry can leave producers confused by the array of information needed. Start with clearly stated goals and then make detailed assessments of the markets, finances and resources, production setting, production system and support available to you.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PreludetoPlanting-768x344.jpg
 permalink: /getting-started-in-agroforestry-part-1/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - 'land use planning'
     - 'prelude to planting'
 ---
-![Prelude to Planting](/assets/images/PreludetoPlanting-768x344.jpg)
 
 ### Failing to plan, is planning to fail
 

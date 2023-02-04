@@ -4,6 +4,8 @@ date: '2009-05-22T11:50:18-04:00'
 author: 'George Powell'
 excerpt: 'Agroforestry is a group of integrated production opportunities that blend agriculture, silviculture and conservation practices in the same system. These systems can assist to strengthen and diversify the economy while also addressing conservation challenges. Because of their integrated nature, they may be suitable options for achieving multiple land use objectives.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AF-Options-for-Planning.jpg
 permalink: /agroforestry-options-for-land-use-planning/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - 'land use planning'
     - urban-rural
 ---
-![Planning options](/assets/images/AF-Options-for-Planning.jpg)
 
 The following is an excerpt of my presentation delivered this morning in Whistler at the 2009 BC Land Summit, titled “[Agroforestry: Integrated Options for Adapting to Change](<http://www.agforinsight.com/pdf/Agroforestry Integrated Options.pdf>).”
 

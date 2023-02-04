@@ -6,8 +6,10 @@ layout: default
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
+      <img scr="{{page.feat-image }}" alt="" class="featured-image-post">
       <h1 class="title">{{ page.title }}</h1>
       <p class="info">by <strong>{{ page.author }}</strong></p>
+      <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
     </header>
   </div>
 </div>
@@ -15,10 +17,6 @@ layout: default
 <div class="wrapper">
 
 {% unless page.cover %} {% include page_divider.html %} {% endunless %}
-
-<section class="post-meta">
-  <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
-</section>
 
 <article class="post-content">
   {{ content }}

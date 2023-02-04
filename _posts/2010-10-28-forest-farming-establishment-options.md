@@ -4,6 +4,8 @@ date: '2010-10-28T16:26:18-04:00'
 author: 'George Powell'
 excerpt: 'Practical options and logistical considerations for setting up forest farming systems are outlined including optimizing existing site potentials, managing stand density and tree form and modifying forest spatial patterns.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/forestfarmingoptions.jpg
 permalink: /forest-farming-establishment-options/
 categories:
     - Agroforestry
@@ -15,7 +17,6 @@ tags:
     - permaculture
     - wildfire
 ---
-![Forest Farming Options](/assets/images/forestfarmingoptions.jpg)
 
 Agroforestry, as a topic of interest and discussion, is trending higher. It has social media site buzz and the search engines engaged. And forest farming, the deliberate integration and/or cultivation of non-timber crops (NTCs) in a forest setting is also on the rise.
 

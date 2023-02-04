@@ -4,6 +4,8 @@ date: '2009-11-29T10:29:41-05:00'
 author: 'George Powell'
 excerpt: 'We need to view the climate adaptation strategy holistically and address the fiscal strength of the agriculture sector, and diversify and buffer our production systems.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/ClimateChangeAdaptation-768x432.jpg
 permalink: /climate-change-adaptation-for-the-agriculture-sector/
 categories:
     - Agriculture
@@ -13,7 +15,6 @@ tags:
     - Policy
     - sequestration
 ---
-![Climate Change Adaptation](/assets/images/ClimateChangeAdaptation-768x432.jpg)
 
 Agriculture and Agri-Food Canada (AAFC) is developing climate change strategy. This is an attempt to address the domestic and international climate change mitigation and adaptation challenges and opportunities.
 

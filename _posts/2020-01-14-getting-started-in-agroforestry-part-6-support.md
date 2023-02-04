@@ -4,6 +4,8 @@ date: '2020-01-14T11:02:27-05:00'
 author: 'George Powell'
 excerpt: 'Finding agroforestry support can be difficult. Evaluate your information needs in light of short-term vs ongoing issues, and regulations or risks that would compel you to seek a professional.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PreludetoPlanting-768x344.jpg
 permalink: /getting-started-in-agroforestry-part-6-support/
 categories:
     - Agroforestry
@@ -12,7 +14,6 @@ tags:
     - 'prelude to planting'
     - 'support programs'
 ---
-![Prelude to Planting](/assets/images/PreludetoPlanting-768x344.jpg)
 
 Agroforestry support, or lack thereof, continues to be a bit of a barrier and [disadvantage to using agroforestry](https://agforinsight.com/disadvantages-of-agroforestry-support/) practices. This is slowly starting to change as agroforestry, and particularly silvopasture, [gains traction as climate change strategy](https://drawdown.org/) for food production.
 

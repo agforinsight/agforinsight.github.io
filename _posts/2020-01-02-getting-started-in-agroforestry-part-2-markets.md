@@ -3,6 +3,8 @@ title: 'Getting Started in Agroforestry: Part 2, Markets'
 date: '2020-01-02T10:54:40-05:00'
 author: 'George Powell'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PreludetoPlanting-768x344.jpg
 permalink: /getting-started-in-agroforestry-part-2-markets/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - 'niche markets'
     - 'prelude to planting'
 ---
-![Prelude to Planting](/assets/images/PreludetoPlanting-768x344.jpg)
 
 Agroforestry markets and marketing is one of the five key areas you should explore before establishing a new venture. [After setting your production and conservation goals](https://agforinsight.com/getting-started-in-agroforestry-part-1/), your next planning step should focus on markets.
 

@@ -4,6 +4,8 @@ date: '2011-01-26T16:48:13-05:00'
 author: 'George Powell'
 excerpt: 'Beneficial management practices in silvopastures revolve around structuring and managing the system to promote positive (facilitative) interactions and minimize negative (competitive) processes between the three major components: livestock, forages and crop trees.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Silvopasture-BMPs-768x580.jpg
 permalink: /silvopasture-bmps/
 categories:
     - Agroforestry
@@ -15,7 +17,7 @@ tags:
     - bmp
     - silvopasture
 ---
-![Silvopasture BMP](/assets/images/Silvopasture-BMPs-768x580.jpg)
+![Silvopasture BMP]()
 
 Silvopasture, like all agroforestry opportunities, has tremendous potential to leverage production, environmental, economic and social benefits through integration. However, [silvopastures have many parts and complex interactions](https://agforinsight.com/disadvantages-of-agroforestry-complexity/). If they are not structured and managed properly they may be doomed to failure. And indeed, you can be far worse off than if you had keep things separate.
 

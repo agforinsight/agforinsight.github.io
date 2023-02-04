@@ -4,8 +4,9 @@ date: '2019-05-23T09:30:31-04:00'
 author: 'George Powell'
 excerpt: 'Successfully navigating the riparian health assessment procedure benefits from three key habits: tuning your eyes, taking good notes and being systematic. Tips on answering the RHA questions are provided.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/RiparianHealth1-768x469.jpg
 permalink: /riparian-health-part-4/
-
 categories:
     - Agriculture
     - Conservation
@@ -17,7 +18,6 @@ tags:
     - 'riparian health'
     - 'riparian reserve'
 ---
-![Riparian Health](/assets/images/RiparianHealth1-768x469.jpg)
 
 This is the fourth post in a series on riparian health. It gets down to the ‘nitty-gritty’ of working through the questions. If you haven’t already done so, please read the previous articles on [the importance of riparian areas](https://agforinsight.com/riparian-health-part-1/) and the [need for assessments](https://agforinsight.com/riparian-health-part-2/).
 

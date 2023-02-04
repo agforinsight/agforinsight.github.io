@@ -4,6 +4,8 @@ date: '2016-07-26T09:45'
 author: 'George Powell'
 excerpt: 'The new regulations governing tree planting in BC''s Agricultural Land Reserve finds the right balance between conservation and food security.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/ALR Tree Planting Rules.jpg
 permalink: /new-alr-tree-planting-rules-gets-it-right/
 categories:
     - Policy
@@ -19,7 +21,6 @@ tags:
     - 'land use'
     - sequestration
 ---
-![ALR Tree Planting Rules](/assets/images/ALR Tree Planting Rules.jpg)
 
 I’m skeptical of most government policies. And I can be guilty sometimes of viewing compromises as deals that are bad for all involved. But I was pleasantly surprised with the balance and good judgement that has been shown in the new regulations governing tree planting on land in the Agricultural Land Reserve (ALR) in British Columbia (BC).
 

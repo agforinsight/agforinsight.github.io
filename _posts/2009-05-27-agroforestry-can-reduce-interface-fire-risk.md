@@ -4,6 +4,8 @@ date: '2009-05-27T06:43:57-04:00'
 author: 'George Powell'
 excerpt: 'Millions of hectares of land have been turned "upside down" ecologically through fire supression. Supporting and developing agroforestry as a viable ecological restoration and economic development tool deserves serious consideration as a permanent solution to interface fire risk.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AgroforestrycanReduceInterfaceFire.jpg
 permalink: /agroforestry-can-reduce-interface-fire-risk/
 categories:
     - Agroforestry
@@ -14,8 +16,6 @@ tags:
     - silvopasture
     - wildfire
 ---
-
-![Burn, Baby, Burn](/assets/images/AgroforestrycanReduceInterfaceFire.jpg)
 
 Fire suppression and other land management has changed the forests of western North America.
 

@@ -4,6 +4,8 @@ date: '2011-05-27T11:10:53-04:00'
 author: 'George Powell'
 excerpt: 'Maintenance is critical to ensure the integrity of shelterbelts, riparian and other conservation reserves.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/A-Stitch-in-Time.jpg
 permalink: /a-stitch-in-time-saves-soil/
 categories:
     - 'Conservation'
@@ -20,7 +22,6 @@ tags:
     - tornado
     - 'wind erosion'
 ---
-![A Stitch in Time](/assets/images/A-Stitch-in-Time.jpg)
 
 I never met my great-grandmother, but know that one of her favorite sayings was “A stitch-in-time, saves nine.” And this folk wisdom embodies a valuable lesson for every land manager using conservation reserves. Because, a little early, preventative maintenance can eliminate the need for a much larger repair job after that missing ‘stitch’ becomes a larger rip or hole.
 

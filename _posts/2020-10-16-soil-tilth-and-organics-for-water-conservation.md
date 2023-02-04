@@ -4,6 +4,8 @@ date: '2020-10-16T11:13:08-04:00'
 author: 'George Powell'
 excerpt: 'Videos highlight the importance of soil tilth and organic matter in maintaining healthy soil for water conservation.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/SoilTilthandOrganics-768x424.jpg
 permalink: /soil-tilth-and-organics-for-water-conservation/
 categories:
     - Agriculture
@@ -19,7 +21,6 @@ tags:
     - water
     - 'water conservation'
 ---
-![Tilth and Organics](/assets/images/SoilTilthandOrganics-768x424.jpg)
 
 Adapting to a changing climate will be one of the key factors to the future success of agriculture. Water conservation in farm settings should start with building the capacity of the land to capture and retain precipitation. Improving tilth and adding organic matter to soils are effective tools for water management. Enhancing water capture and storage in the soil can be a cost-effective solution to minimizing drought impacts in dryland farming.
 

@@ -88,8 +88,9 @@ pre code.hljs {
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
-		background-position: 50% 50%;
+		background-position: bottom;
 		background-size: cover;
+		background-repeat: no-repeat;
 		.title {
 			font-size: modular-scale(6);
 		}
@@ -450,4 +451,8 @@ pre code.hljs {
 			text-decoration: underline;
 		}
 	}
+}
+
+.blog-roll-image {
+	transform: scale(0.8);
 }

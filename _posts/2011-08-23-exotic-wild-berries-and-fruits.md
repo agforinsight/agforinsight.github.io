@@ -4,6 +4,8 @@ date: '2011-08-23T14:25:15-04:00'
 author: 'George Powell'
 excerpt: 'Harvesting wild berries and fruit is a pastime that is healthful on many levels. My favourite exotic wild fruits for those want to take a walk on the wild side include thimbleberry, red elderberry, pin cherry, highbush cranberry and honey berry.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Exotic-Wild-Berries-and-Fruit-1024x622.jpg
 permalink: /index.php/2011/08/23/exotic-wild-berries-and-fruits/
 categories:
     - Agroforestry
@@ -21,7 +23,6 @@ tags:
     - 'wild fruit'
     - 'wild harvest'
 ---
-![Exotic Wild Berries](/assets/images/Exotic-Wild-Berries-and-Fruit-1024x622.jpg)
 
 For some, picking wild berries is a means to supplement their income. It is tradition and culture for many. For others, it is also summer ritual or a just pleasant way to spend the afternoon in the great outdoors. But, whatever the reason, harvesting some of the natural bounty of wild foods is a pastime that is healthful on many levels.
 

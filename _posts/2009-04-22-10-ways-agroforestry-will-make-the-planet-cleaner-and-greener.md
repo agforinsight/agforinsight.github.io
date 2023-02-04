@@ -3,8 +3,10 @@ title: '10 Ways Agroforestry Will Make the Planet Cleaner and Greener'
 date: '2009-04-22T06:36:00-04:00'
 author: 'George Powell'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AFCleanerGreener-768x645.jpg
 permalink: /10-ways-agroforestry-will-make-the-planet-cleaner-and-greener/
-excerpt: 'Agroforestry is one of the green technologies that can help the agricultural industry meet and exceed demands for sustainable production.'
+excerpt: 'Agroforestry is one of the green technologies that can help the agricultural industry meet and exceed demands for carbon-neutral, sustainable production.'
 categories:
     - Agroforestry
 tags:
@@ -13,7 +15,6 @@ tags:
     - sequestration
     - 'sustainable agriculture'
 ---
-![Agroforestry - Cleaner, Greener](/assets/images/AFCleanerGreener-768x645.jpg)
 
 Agroforestry is one of the ‘green’ technologies that can help the agricultural industry meet and exceed society’s demands for sustainable production practices. In a world of seemingly overwhelming environmental problems, it is good to know there are practical solutions available to meet these challenges head on. Or as I like to think of agroforestry, it is where the ‘green’ rubber hits the environmentally friendly road.
 

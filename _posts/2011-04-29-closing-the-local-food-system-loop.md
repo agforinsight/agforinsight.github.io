@@ -4,6 +4,8 @@ date: '2011-04-29T13:00:39-04:00'
 author: 'George Powell'
 excerpt: 'Food production is worthy of some public funding, but don''t base that support on the total volume of output or the area in production, but rather the ratio of outputs to inputs and expand a framework supporting a transition to lower input costs without greatly sacrificing production levels.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/closingtheloop.jpg
 permalink: /closing-the-local-food-system-loop/
 categories:
     - Agriculture
@@ -19,7 +21,6 @@ tags:
     - Policy
     - taxation
 ---
-![Closing the Loop](/assets/images/closingtheloop.jpg)
 
 …by recycling poop. We need to support increased efficiency in agricultural energy and nutrient management.
 

@@ -4,6 +4,8 @@ date: '2011-11-03T10:13:21-04:00'
 author: 'George Powell'
 excerpt: 'For many producers trying to navigate their agroforestry enterprise into uncharted waters, the lack of clear support networks and regionally relevant information, infrastructure, financing outlets and government policies, can feel like they are perpetually fighting a head wind. '
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/DisadvantagesofAgroforestry-768x736.jpg
 permalink: /disadvantages-of-agroforestry-support/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - Policy
     - 'support programs'
 ---
-![Disadvantages of Agroforestry](/assets/images/DisadvantagesofAgroforestry-768x736.jpg)
 
 In my previous posts in this series I covered [time](https://agforinsight.com/disadvantages-of-agroforestry-time/) and [complexity](https://agforinsight.com/disadvantages-of-agroforestry-complexity/) work against the adoption of agroforestry.  In this final post I'll discuss the lack of support.
 

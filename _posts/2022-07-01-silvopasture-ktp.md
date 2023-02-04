@@ -4,12 +4,17 @@ date: '2022-07-01T12:00:00-00:00'
 author: 'George Powell'
 excerpt: 'A knowledge transfer plan is being developed for extending information on the use of silvopasture in British Columbia (BC) for production and conservation.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/SP_KTP.jpg
 permalink: /silvopasture/silvopasture-ktp/
 categories:
     - Silvopasture
     - Agroforestry
 ---
-![SilvopastureinBC](/assets/images/SP KTP.jpg)
+
+**December 15, 2022, UPDATE** Thank you for your interest in the Silvopasture Knowledge Transfer Plan.  Stakeholder input is now closed.
+
+___
 
 ## Your Participation is Welcomed
 

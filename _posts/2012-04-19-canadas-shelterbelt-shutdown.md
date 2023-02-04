@@ -4,8 +4,9 @@ date: '2012-04-19T11:35:50-04:00'
 author: 'George Powell'
 excerpt: 'Agriculture and Agri-food Canada''s (AAFC) decision last week to axe its long-running shelterbelt program, is not only a set-back for agroforestry in Canada, but could also have severe short and long-term implications for the sustainability of Prairie agriculture.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/CanadasShelterbeltShutdown-768x556.jpg
 permalink: /canadas-shelterbelt-shutdown/
-image: /wp-content/uploads/2023/01/.jpg
 categories:
     - Agroforestry
     - Policy
@@ -16,7 +17,6 @@ tags:
     - Shelterbelts
     - 'sustainable agriculture'
 ---
-![Shelterbelt Shutdow](/assets/images/CanadasShelterbeltShutdown-768x556.jpg)
 
 Agriculture and Agri-food Canada’s (AAFC) decision last week to axe its long-running shelterbelt program, is a major set-back for agroforestry in Canada. But more importantly, it could also have severe short and long-term implications for the sustainability of Prairie agriculture.
 

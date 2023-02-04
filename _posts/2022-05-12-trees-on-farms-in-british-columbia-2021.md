@@ -4,6 +4,8 @@ date: '2022-05-12T18:21'
 author: 'George Powell'
 excerpt: 'A check up on the use of trees on British Columbia (BC) farms for production and conservation'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/trees-on-farms-in-BC-768x536.jpg
 permalink: /trees-on-farms-in-british-columbia-2021/
 categories:
     - Agriculture
@@ -22,8 +24,6 @@ tags:
     - Shelterbelts
     - windbreak
 ---
-
-![Trees on Farms in BC](/assets/images/trees-on-farms-in-BC-768x536.jpg)
 
 *Updated and revised May 12, 2022*
 

@@ -4,6 +4,8 @@ date: '2010-04-16T14:01:51-04:00'
 author: 'George Powell'
 excerpt: 'A lesson from Dr. Seuss and the rise and fall of BC''s ginseng industry in protecting your market niche.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/LessonfromSeuss.jpg
 permalink: /a-lesson-from-dr-seuss-in-protecting-your-niche/
 categories:
     - Diversification
@@ -13,7 +15,6 @@ tags:
     - 'niche markets'
     - 'specialty crops'
 ---
-![Lesson From Dr Seuss](/assets/images/LessonfromSeuss.jpg)
 
 I’ve been fortunate to benefit from the wisdom of great mentors. Mentors who passed down their knowledge and helped me to learn and develop. But I wasn’t introduced to one of my most enduring sages at either of the fine universities I attended. Nor through my professional exchanges. Rather, it was through my pre-school readings. The immortal Dr. Seuss (“On Beyond Zebra!” 1955).
 

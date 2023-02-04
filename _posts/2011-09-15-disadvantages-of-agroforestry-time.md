@@ -4,6 +4,8 @@ date: '2011-09-15T09:59:54-04:00'
 author: 'George Powell'
 excerpt: 'It is important for potential producers and land managers to understand the potential disadvantages of the extended time frame involved in agroforestry production and make sure it matches with their risk tolerance and long-term goals.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/DisadvantagesofAgroforestry-768x736.jpg
 permalink: /disadvantages-of-agroforestry-time/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - economics
     - time
 ---
-![Disadvantages of Agroforestry](/assets/images/DisadvantagesofAgroforestry-768x736.jpg)
 
 I work closely with a number of groups promoting the benefits of agroforestry. And it is easy when you are immersed in a subject to lose some objectivity. So lest I become accused of becoming an agroforestry cheerleader, I think it is important to outline some of the potential disadvantages of agroforestry. And I will do so in couple of posts.
 

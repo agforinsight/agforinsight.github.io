@@ -4,6 +4,8 @@ date: '2022-02-10T14:45:00-05:00'
 author: 'George Powell'
 excerpt: 'The two-headed monster of public ignorance and apathy that creates one of the greatest challenges to agriculture. And, indeed, also for society.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Agricultural-Ignorance-and-Apathy.jpg
 permalink: /agricultural-ignorance-and-apathy/
 categories:
     - Agriculture
@@ -15,7 +17,6 @@ tags:
     - population
     - urban-rural
 ---
-![Don't Know, Don't Care](/assets/images/Agricultural-Ignorance-and-Apathy.jpg)
 
 Frank Layden, former coach of the NBA’s Utah Jazz, once recounted a conversation he had with an underperforming player.
 

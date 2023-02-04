@@ -4,6 +4,8 @@ date: '2020-01-05T10:51:18-05:00'
 author: 'George Powell'
 excerpt: 'Considerations for agroforestry finance: a source of patient capital, mapping out cash flow needs and matching them to crop maturation, making full use of existing investments, and diversify, don''t diworseify.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PreludetoPlanting-768x344.jpg
 permalink: /getting-started-in-agroforestry-part-3-finance/
 categories:
     - Agroforestry
@@ -16,7 +18,6 @@ tags:
     - Diversification
     - 'prelude to planting'
 ---
-![Prelude to Planting](/assets/images/PreludetoPlanting-768x344.jpg)
 
 Options for agroforestry finance don’t differ greatly from those for other agricultural ventures. But, after you [select a target market and outline a marketing strategy](https://agforinsight.com/getting-started-in-agroforestry-part-2-markets/), finance is your next most important consideration. And you should have a financial plan in mind before making production decisions.
 

@@ -4,6 +4,8 @@ date: '2021-01-01T12:00:00-00:00'
 author: 'George Powell'
 excerpt: 'Examples of how silvopasture is used in British Columbia (BC) for production and conservation.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/SPBC1.jpg
 permalink: /silvopasture/silvopasture-in-bc/
 categories:
     - Silvopasture

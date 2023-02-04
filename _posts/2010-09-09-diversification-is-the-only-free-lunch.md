@@ -4,6 +4,8 @@ date: '2010-09-09T13:04:30-04:00'
 author: 'George Powell'
 excerpt: 'We undervalue the biodiversity that is fundamental to our food supplies. Preserving and culturing diverse production opportunities will lower the risks to agricultural producers and interruptions to global food supplies.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Diversification-free-lunch.jpg
 permalink: /diversification-is-the-only-free-lunch/
 categories:
     - Agriculture
@@ -17,7 +19,6 @@ tags:
     - 'mountain pine beetle'
     - Pavlovsk
 ---
-![Free Lunch](/assets/images/Diversification-free-lunch.jpg)
 
 Agricultural biodiversity is threatened.
 

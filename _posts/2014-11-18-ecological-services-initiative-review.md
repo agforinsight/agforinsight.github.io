@@ -1,12 +1,12 @@
 ---
-id: 542
 title: 'Ecological Services Initiative Review'
 date: '2014-11-18T12:34:26-05:00'
 author: 'George Powell'
 excerpt: 'A strategic review of the Ecological Services Initiative / Farmland Advantage Program was completed to guide future support programs for ecological goods and services from agricultural land in BC.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Farmland-Advantage-Review-768x320.png
 permalink: /ecological-services-initiative-review/
-
 categories:
     - Agriculture
     - Conservation
@@ -20,7 +20,6 @@ tags:
     - 'organic agriculture'
     - 'payment for ecological services'
 ---
-![ESI Review](/assets/images/Farmland-Advantage-Review-768x320.png)
 
 Ecological goods and services (EGS) are the natural outputs and processes that create health, economic or social benefits. In British Columbia, as in many other jurisdictions, agricultural operations tend to occupy portions of the landscape both high in biodiversity and supporting key ecological functions. Agricultural lands have therefore become a focus for the development of payment for ecological services (PES) programs. These are used as a means to reward private-land stewardship that restores or maintains EGS.
 

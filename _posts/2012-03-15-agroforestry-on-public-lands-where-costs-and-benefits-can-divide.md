@@ -4,6 +4,8 @@ date: '2012-03-15T15:55:30-04:00'
 author: 'George Powell'
 excerpt: 'The low adoption rate of agroforestry practices on public lands can be attribed to the lack of agroforestry tenures and the prevailing land use philosophy of managing conflicts, not integrating activities to create positive outcomes.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Agroforestry-on-Public-Lands.jpg
 permalink: /agroforestry-on-public-lands-where-costs-and-benefits-can-divide/
 categories:
     - Agroforestry
@@ -14,7 +16,6 @@ tags:
     - cost-benefit
     - 'public land policy'
 ---
-![Agroforestry on Public Lands](/assets/images/Agroforestry-on-Public-Lands.jpg)
 
 Agroforestry continues to gain recognition and adoption around the globe. It is a viable production system that can blend economic, social and environmental benefits. But the interest and uptake on publicly-owned lands has been underwhelming to say the least. I believe this stems in large part from the general lack of integrated timber/non-timber tenure opportunities. And it is also partly a victim of the evolution of multiple-use for resource management over the past half century. The prevailing land use philosophy has been one of managing conflicts, not integrating activities to create positive outcomes.
 

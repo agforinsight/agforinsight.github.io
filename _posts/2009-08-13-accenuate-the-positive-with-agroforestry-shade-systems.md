@@ -4,6 +4,8 @@ date: '2009-08-13T16:26:12-04:00'
 author: 'George Powell'
 excerpt: 'Ecosystems and their productivity are not solely the function of competition, but rather a complex mixture of negative effects (including competition) and positive, or facilitative processes whereby the presence of one species improves and promotes the growth of another.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AccentuatethePositive-768x578.jpg
 permalink: /accenuate-the-positive-with-agroforestry-shade-systems/
 categories:
     - Agroforestry
@@ -13,7 +15,6 @@ tags:
     - facilitation
     - 'sustainable agriculture'
 ---
-![the Positive](/assets/images/AccentuatethePositive-768x578.jpg)
 
 Where I call home, this week brought some much welcome relief from a long, dry, hot spell of weather. With temperatures into the upper 30s C, and wildfires are raging, most soils have dried to a powdery consistency. And the ground vegetation has turned various hues of yellow and brown, or has already completely withered away for the year.
 

@@ -3,6 +3,8 @@ title: 'A Tribute to Pete Spencer'
 date: '2021-12-28T14:06:00-05:00'
 author: 'George Powell'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Pete-Spencer-300x184.jpg
 permalink: /a-tribute-to-pete-spencer/
 categories:
     - Agriculture
@@ -17,7 +19,6 @@ tags:
     - 'Pete Spencer'
     - Vanderhoof
 ---
-![Pete Spencer](/assets/images/Pete-Spencer-300x184.jpg)
 
 Most of the people I have met in my life have not left an impression. Our encounters now reside in the back corners of my mind as a face or name that is disconnected from where or when we interacted. Others, for better or worse, or sheer volume of discourse, have resonated with me. And then there are a select few, for whom I’m a better person for having known.
 

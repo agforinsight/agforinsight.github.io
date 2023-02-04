@@ -3,6 +3,8 @@ title: 'Agricultural Water Policy'
 date: '2021-06-07T14:02:00-04:00'
 author: 'George Powell'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Agricultural-Water-Policy-1-768x548.jpg
 permalink: /agricultural-water-policy/
 categories:
     - Agriculture
@@ -17,7 +19,6 @@ tags:
     - 'water conservation'
     - 'Water Sustainability Act'
 ---
-![Agricultural Water Policy](/assets/images/Agricultural-Water-Policy-1-768x548.jpg)
 
 The need for a clear agricultural water policy in British Columbia has never been greater. Without access to water, there will be no agriculture. But that does not mean that the agricultural community should not work towards improving food security with efficient and responsible water use.
 

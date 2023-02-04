@@ -4,6 +4,8 @@ date: '2019-05-16T08:20:32-04:00'
 author: 'George Powell'
 excerpt: 'Pro-tips on conducting a riparian health assessment, including: selecting an area to monitor; setting the boundaries; assessent timing; and, overcoming evaluation biases.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/RiparianHealth1-768x469.jpg
 permalink: /riparian-health-part-3/
 categories:
     - Agriculture

@@ -4,8 +4,9 @@ date: '2019-05-02T16:55:23-04:00'
 author: 'George Powell'
 excerpt: 'Riparian zones are critical areas for stewardship in the agricultural landscape. Their ecological importance cannot be overstated. Farming and ranching can happily co-exist with healthy riparian areas. But when mismanaged they can cease to function properly. And impaired riparian health can lead to many adverse outcomes.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/RiparianHealth1-768x469.jpg
 permalink: /riparian-health-part-1/
-
 categories:
     - Agriculture
     - Conservation

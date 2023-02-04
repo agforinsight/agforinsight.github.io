@@ -4,6 +4,8 @@ date: '2009-07-15T11:32:01-04:00'
 author: 'George Powell'
 excerpt: 'Agroforestry and permaculture are similar in some respects and even encompass common land use practices, but they are distinct. I hope with this posting to clarify how the two relate to each other.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AF-and-Permaculture-768x365.jpg
 permalink: /agroforestry-and-permaculture-explained/
 categories:
     - Agroforestry
@@ -11,7 +13,6 @@ tags:
     - Agroforestry
     - permaculture
 ---
-![AF and PC](/assets/images/AF-and-Permaculture-768x365.jpg)
 
 In my professional life I have delivered many presentations, workshops and short courses on the basics of agroforestry over the years. I’ve repeated the concepts of agroforestry so many times, I can almost slip into a semi-conscience state and reiterate the definitions like a mantra. Common questions that I will field are: “how is this different from agriculture or forestry?”, and occasionally, I will be queried if agroforestry is the same as permaculture. While these two systems are similar in some respects and even encompass common land use practices, they are distinct. I hope with this posting to clarify how the two relate to each other.
 

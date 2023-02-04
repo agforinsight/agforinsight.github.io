@@ -4,6 +4,8 @@ date: '2011-12-05T15:21:06-05:00'
 author: 'George Powell'
 excerpt: 'Natural resource management policy debates are increasingly an advocacy-driven process that leaves out producers reluctant to embrace social media.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/GoldenAgeofWireless.jpg
 permalink: /disconnected-in-the-golden-age-of-wireless/
 categories:
     - General
@@ -17,7 +19,6 @@ tags:
     - 'social media'
     - urban-rural
 ---
-![The Golden Age of Wireless](/assets/images/GoldenAgeofWireless.jpg)
 
 Last week I spent the better part of one work day without my electronic tethers. A technical glitch knocked out regional cellular service. And I rely upon the airwaves for all my voice and data (internet) needs. Besides setting me to thinking about the need for systems redundancy for running my business, it also gave me time to think about what it means to be connected.
 

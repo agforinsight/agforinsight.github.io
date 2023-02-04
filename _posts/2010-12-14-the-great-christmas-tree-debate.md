@@ -4,6 +4,8 @@ date: '2010-12-14T14:46:06-05:00'
 author: 'George Powell'
 excerpt: 'The argument that plastic Christmas ''trees'' have less environmental impact than real trees because of their durability is flawed. Real trees are near carbon-neutral, support local jobs, provide a tangible link to the natural world and feed your soul.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/ChristmasTreeDebate-768x605.jpg
 permalink: /the-great-christmas-tree-debate/
 categories:
     - 'Conservation'
@@ -14,7 +16,6 @@ tags:
     - Conservation
     - 'green business'
 ---
-![Christmas Tree Debate](/assets/images/ChristmasTreeDebate-768x605.jpg)
 
 >Oh Christmas tree. Oh Christmas tree.
 >How vocal are your detractors.

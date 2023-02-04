@@ -4,6 +4,8 @@ date: '2020-10-11T09:33:05-04:00'
 author: 'George Powell'
 excerpt: 'Agroforestry methods have been proven as effective tools for water management. Enhancing water capture and storage in the soil can be a cost-effective solution to minimizing drought impacts in dryland farming.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AF-Water-Conservation-768x550.jpg
 permalink: /agroforestry-for-water-conservation/
 categories:
     - Agriculture
@@ -19,7 +21,6 @@ tags:
     - silvopasture
     - 'water conservation'
 ---
-![Agroforestry for Water](/assets/images/AF-Water-Conservation-768x550.jpg)
 
 ### Water Conservation
 

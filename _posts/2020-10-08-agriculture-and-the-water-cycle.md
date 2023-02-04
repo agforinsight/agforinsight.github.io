@@ -4,6 +4,8 @@ date: '2020-10-08T14:28:02-04:00'
 author: 'George Powell'
 excerpt: 'Adapting to a changing climate will be one of the key factors to the future success of agriculture. Water conservation in farm settings should start with building the capacity of the land to capture and retain precipitation. Building soil tilth with organics, as well as, using agroforestry methods, are proven tools for water management.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AgricultureWaterCycle-768x453.png
 permalink: /agriculture-and-the-water-cycle/
 categories:
     - Agriculture
@@ -18,7 +20,6 @@ tags:
     - 'soil conservation'
     - water
 ---
-![Agriculture and Water](/assets/images/AgricultureWaterCycle-768x453.png)
 
 ### Water Conservation
 

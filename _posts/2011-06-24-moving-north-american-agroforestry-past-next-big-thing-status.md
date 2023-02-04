@@ -4,6 +4,8 @@ date: '2011-06-24T11:14:49-04:00'
 author: 'George Powell'
 excerpt: 'Continually characterizing agroforestry as novel seems like politico-speak for "we''ve ignored this issue along time and so we''re going to pretend we just discovered it."  It''s time to move past talk and more substantively into action. We need leaders - political, academic and industry - who will understand and vocalize agroforestry as a land use for the NOW and not just the future.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AF-Latest-Greatest-1024x709.jpg
 permalink: /moving-north-american-agroforestry-past-next-big-thing-status/
 categories:
     - Agroforestry
@@ -12,7 +14,6 @@ tags:
     - Agroforestry
     - Policy
 ---
-![Latest and Greatest](/assets/images/AF-Latest-Greatest-1024x709.jpg)
 
 Agroforestry seems to keep gaining prominence as a ‘new’ land management tool. For example, Kathleen Merrigan, Deputy Secretary of the US Department of Agriculture (USDA), gave a high-level endorsement for agroforestry as a land use tool to solve a host of production and conservation challenges. Her plenary address to the 12th North American Agroforestry Conference, at the University of Georgia earlier this month, however, repeatedly referred to agroforestry as an ’emerging’ system.
 

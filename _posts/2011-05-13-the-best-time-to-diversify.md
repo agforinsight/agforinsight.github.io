@@ -4,6 +4,8 @@ date: '2011-05-13T11:34:28-04:00'
 author: 'George Powell'
 excerpt: 'The best time to invest in products, services and markets is when you have the resources needed to commit to the process. And if you have no back up plans, the second best time is now.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/besttimetodiversify.jpg
 permalink: /the-best-time-to-diversify/
 categories:
     - Diversification
@@ -14,7 +16,6 @@ tags:
     - diworseify
     - Markets
 ---
-![Best Time to Diversify](/assets/images/besttimetodiversify.jpg)
 
 When is the best time to diversify your production?
 

@@ -4,6 +4,8 @@ date: '2010-05-28T15:58:40-04:00'
 author: 'George Powell'
 excerpt: 'The opportunities and pitfalls of agroforestry certification.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/AgroforestryCertification-1024x791.jpg
 permalink: /agroforestry-certification/
 categories:
     - Agroforestry
@@ -14,7 +16,6 @@ tags:
     - 'green business'
     - 'sustainable agriculture'
 ---
-![Trees on Farms in BC](/assets/images/AgroforestryCertification-1024x791.jpg)
 
 In my last post I discussed some of the needs and challenges of [‘branding’ agroforestry](http://www.agforinsight.com/?p=231) production. I concluded by indicating the best branding solution is probably to link the brand to a certification scheme. In this post I want to elaborate on that idea. And I’ll share some of the opportunities and pitfalls of agroforestry certification.
 

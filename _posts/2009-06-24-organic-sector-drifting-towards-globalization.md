@@ -4,6 +4,8 @@ date: '2009-06-24T14:48:32-04:00'
 author: 'George Powell'
 excerpt: 'Organic agriculture, with solid double digit growth in annual sales, is one of the production success stories of the past decade.  Unless industry and government work more effectively towards building domestic value-chains for the organic sector in this country, the past two decades of growth will only have succeeded in developing another high risk, low reward farming option.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/organicglobalization.jpg
 permalink: /organic-sector-drifting-towards-globalization/
 categories:
     - Agriculture
@@ -13,8 +15,6 @@ tags:
     - Organic
     - Trade
 ---
-
-![Globalization](/assets/images/organicglobalization.jpg)
 
 Organic agriculture is one of the production success stories of the past decade. In recent years it has achieved solid double digit growth in annual sale. Organic agriculture encompasses production systems that promote and enhance soil biological activity. They typically involve minimal use of inputs and employ practices that restore, maintain, and enhance natural processes.
 

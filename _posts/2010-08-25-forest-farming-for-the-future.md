@@ -4,6 +4,8 @@ date: '2010-08-25T11:04:12-04:00'
 author: 'George Powell'
 excerpt: 'Demand from global population growth dictates the need for more efficient use of natural resources and more emphasis on conservation. Forest farming offers integrated production and conservation solutions to address these challenges. We need public policy and regulations that support this option.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Forest-Farming-for-Future-768x551.jpg
 permalink: /orest-farming-for-the-future/
 categories:
     - Agroforestry
@@ -16,7 +18,6 @@ tags:
     - population
     - restoration
 ---
-![Forest Farming Future](/assets/images/Forest-Farming-for-Future-768x551.jpg)
 
 Forest farming is a land use system whose time has arrived.
 

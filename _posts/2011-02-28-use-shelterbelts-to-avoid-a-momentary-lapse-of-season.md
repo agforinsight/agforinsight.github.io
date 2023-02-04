@@ -4,6 +4,8 @@ date: '2011-02-28T11:33:07-05:00'
 author: 'George Powell'
 excerpt: 'Properly designed and maintained shelterbelts and hedgerows can be used to trap and retain snow for next years crops or livestock watering.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/Momentary-Lapse-1-768x578.jpg
 permalink: /use-shelterbelts-to-avoid-a-momentary-lapse-of-season/
 categories:
     - Agroforestry
@@ -15,7 +17,6 @@ tags:
     - snow
     - water
 ---
-![Momentary Lapse](/assets/images/Momentary-Lapse-1-768x578.jpg)
 
 I’m gazing out my window at the ever increasing snow banks that are still growing under the latest winter flurry (thank you La Nina). And, it is hard to imagine spring will ever arrive. But watching the patterns of snow drift in and among openings and patches of trees and shrubs has reminded me of how important shelterbelts can be to capturing water for the next growing season. And indeed, capturing and storing winter precipitation can become a *make or break* proposition for crops or livestock watering later on in the dog days of a summer drought.
 

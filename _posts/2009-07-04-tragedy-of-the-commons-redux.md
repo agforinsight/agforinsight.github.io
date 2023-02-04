@@ -4,9 +4,12 @@ date: '2009-07-04T14:28:02-04:00'
 author: 'George Powell'
 excerpt: 'The emergence of the NTFP industry in BC has raised concerns about its impact on the forest ecosystems and on the aboriginal and other traditional users who depend on them. Without some concrete actions towards legitimizing and regulating the NTFP industry in BC then the price we will all pay for continued inaction is loss of part of our collective natural heritage and the loss of the opportunities to develop sustainable rural jobs and economic stability.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/TragedyoftheCommonsRedux.jpg
 permalink: /tragedy-of-the-commons-redux/
 categories:
     - 'Non-timber Forest Resources'
+    - Policy
 tags:
     - aboriginal
     - 'land use'
@@ -15,8 +18,6 @@ tags:
     - Policy
     - regulation
 ---
-
-![Tragedy of the Commons](/assets/images/TragedyoftheCommonsRedux.jpg)
 
 Summer is upon us and an army of grey-market gatherers are descending on the forests of British Columbia. They are there to harvest berries, mushrooms, floral greenery and an array of other botanical products. This is part of a largely informal non-timber forest products (NTFP) sector worth somewhere near a half billion dollars a year in sales.
 

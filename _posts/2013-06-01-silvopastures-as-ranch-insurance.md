@@ -4,6 +4,8 @@ date: '2013-06-01T11:30:20-04:00'
 author: 'George Powell'
 excerpt: 'Silvopastures can be viewed as form of insurance for ranching.  They diversify forage production, add other renewable products for sale and offer social benefits to the beef sector.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/SilvopasturesRanchInsurance.jpg
 permalink: /silvopastures-as-ranch-insurance/
 categories:
     - Agroforestry
@@ -17,7 +19,6 @@ tags:
     - silvopasture
     - 'Social License'
 ---
-![Silvopastures as Ranch Insurance](/assets/images/SilvopasturesRanchInsurance.jpg)
 
 I think it can be constructive sometimes to view silvopastures (*integrated tree, forage and livestock production areas*) as a form of insurance in the ranching sector. A living insurance policy through diversification that works on many levels.
 

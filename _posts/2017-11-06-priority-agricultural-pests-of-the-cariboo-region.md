@@ -4,6 +4,8 @@ date: '2017-11-06T10:37:29-05:00'
 author: 'George Powell'
 excerpt: 'Climate change is already influencing, and will continue to influence, agricultural pest dynamics and their impacts on agricultural production.'
 layout: post
+cover: /assets/header_image.jpg
+image: /assets/images/PriorityPests.jpg
 permalink: /priority-agricultural-pests-of-the-cariboo-region/
 categories:
     - Agriculture
@@ -12,7 +14,6 @@ tags:
     - 'British Columbia'
     - 'Integrated Pest Management'
 ---
-![Priority Pests of the Cariboo](/assets/images/PriorityPests.jpg)
 
 Climate change is already influencing, and will continue to influence, the dynamics and impacts of agricultural pests in the Cariboo region. During the Cariboo Adaptation Strategy planning process of the BC Agriculture and Food Climate Action Initiative, stakeholders identified a number of agricultural pests of concern. This process also highlighted a significant gap in regional monitoring.
 
