@@ -5,7 +5,7 @@ permalink: /contact/
 main_nav: true
 ---
 
-#### Please use this form if you would like to send me a message.
+#### Use this form is you wish to contact me.
 
 Please fill in all fields.
 {% include contact-form.html %}
