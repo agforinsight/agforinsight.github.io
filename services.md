@@ -14,14 +14,6 @@ main_nav: true
 - Design and implement research, demonstration and adaptive management trials;
 - Full range of analytical services, from data summaries to statistical analyses and interpretation of results.
 
-## Management and Enterprise Development Support
-
-![Welcome](/assets/images/Workshop.jpg)
-
-- Integrated resource management plans;
-- Agroforestry and other farm practices assessments;
-- Industry and program development support including developing funding proposals, liaison work and partnership development.
-
 ## Strategic Planning and Facilitation
 
 ![Welcome](/assets/images/Planning.jpg)
