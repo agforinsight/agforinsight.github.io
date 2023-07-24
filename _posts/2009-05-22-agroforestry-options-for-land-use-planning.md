@@ -43,7 +43,7 @@ On a site level, agroforestry practices have tremendous potential to buffer mana
 
 At the landscape level agroforestry practices can provide the same services of transition and buffering. For example, new agricultural development areas (as is now occurring in the mountain pine beetle impacted areas of the interior) can be transitioned to wilderness with silvopastoral or forest farming areas.
 
-Agroforestry management can also mimic the structure of an open forest, therefore, [managed areas can be used to open up ingrown forests in the southern interior where reintroduction of the natural fire regime is not practical](http://www.agforinsight.com/agroforestry-can-reduce-interface-fire-risk/) with the current pattern of rural settlement.
+Agroforestry management can also mimic the structure of an open forest, therefore, [managed areas can be used to open up ingrown forests in the southern interior where reintroduction of the natural fire regime is not practical](https://www.agforinsight.com/agroforestry-can-reduce-interface-fire-risk/) with the current pattern of rural settlement.
 
 The economic returns from wood, food, floral, natural health and other niche products can subsidize conservation activities. These include providing wildlife habitat, sequestering carbon to mitigate climate change, managing fire risk and protecting soil, water air quality. In this manner, the economic activity from agroforestry becomes a strong incentive for producers to adopt conservation practices.
 
