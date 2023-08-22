@@ -1,6 +1,6 @@
 ---
 title: 'Silvopasture Knowledge Transfer Plan'
-date: '2022-07-01T12:00:00-00:00'
+date: '2023-01-20T12:00:00-00:00'
 author: 'George Powell'
 excerpt: 'A knowledge transfer plan is being developed for extending information on the use of silvopasture in British Columbia (BC) for production and conservation.'
 layout: post
@@ -14,11 +14,13 @@ categories:
 
 **December 15, 2022, UPDATE** Thank you for your interest in the Silvopasture Knowledge Transfer Plan.  Stakeholder input is now closed.
 
+**January 20, 2023, UPDATE** The Silvopasture Knowledge Transfer Plan is complete.  Thank you to all who provided input. For access to the completed document, please contact the [British Columbia Ministry of Agriculture and Food (AF)](https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood/agricultural-land-and-environment/agroforestry)
+
 ___
 
 ## Your Participation is Welcomed
 
-The [British Columbia Ministry of Agriculture and Food (AF)](https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood/agricultural-land-and-environment/agroforestry) is developing a Five-Year Knowledge Transfer Plan for Silvopasture in BC. I’m pleased to be coordinating the development of this plan under the direction of a diverse and knowledgeable project steering committee.
+The British Columbia Ministry of Agriculture and Food (AF) is developing a Five-Year Knowledge Transfer Plan for Silvopasture in BC. I’m pleased to be coordinating the development of this plan under the direction of a diverse and knowledgeable project steering committee.
 
 Do you have experience in using silvopastoral methods, or an interest in learning more about silvopasture? Your input would be welcomed into the development of the Knowledge Transfer Plan. Start by completing one of the two surveys listed below. One is designed for producers (agricultural, woodlot managers, both new or experienced). The second is designed primarily for professionals (Agrologists, Biologists, Foresters and Planners) in British Columbia that use, or are interested in using silvopastoral practices.
 
@@ -38,7 +40,7 @@ To participate in an interview or focus group please use the site's contact form
 
 Survey responses are intended to be anonymous, and data will be used in amalgamated form only. The purpose of the survey is to assist the BC Ministry of Agriculture and Food in developing a Five-Year Knowledge-Transfer Plan for Silvopasture. Participants are also needed for interviews and focus groups to help identify and provide direction on the development of new silvopasture communication approaches and products for BC.
 
-If you wish to further participate in development of the Knowledge Transfer Plan, you will be asked to submit contact information at the end of the survey (through a web link). It is optional for you to provide contact information. Your contact information is collected under section 26(c) and 26(e) of the Freedom of Information and Protection of Privacy Act for the purposes explained above. Contact information provided will not be used to associate your identity with your survey responses. If you have questions please contact Lisa Zabek, Agroforestry Specialist, BC Ministry of Agriculture and Food at Lisa.Zabek@gov.bc.ca or 250-312-7277.
+If you wish to further participate in development of the Knowledge Transfer Plan, you will be asked to submit contact information at the end of the survey (through a web link). It is optional for you to provide contact information. Your contact information is collected under section 26(c) and 26(e) of the Freedom of Information and Protection of Privacy Act for the purposes explained above. Contact information provided will not be used to associate your identity with your survey responses. 
 
 ## Personal Information Reminder
 
