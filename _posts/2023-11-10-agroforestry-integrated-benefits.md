@@ -38,7 +38,7 @@ There is considerable misunderstanding about agroforestry in BC. For clarity the
 
 The focus of the Committee's consultations is on agricultural soil and carbon sequestration, and agroforestry can, and already is, contributing positively to this. Recent research from the University of Alberta highlights that agroforestry zones can store 46 tonnes per hectare more carbon in above-ground biomass and 36 tonnes per hectare more carbon in the soil than adjacent cropland [(An *et al*. 2022. GCB Bioenergy 14(6):669-680)](https://onlinelibrary.wiley.com/doi/full/10.1111/gcbb.12934).
 
-The real strength of agroforestry however, is as climate change and extreme weather adapation tool, that generates many co-benefits, including carbon sequestration.
+The real strength of agroforestry however, is as climate change and extreme weather adaptation tool, that generates many co-benefits, including carbon sequestration.
 
 ## Shelterbelts and Hedgerows
 
