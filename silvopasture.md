@@ -51,9 +51,7 @@ Learn about where it is being used in BC:
 
 ### Registration 
 
-<p>Registration is now open. Webinars are free, but space is limited. </p>
-
-<button onclick="window.location.href='https://us06web.zoom.us/meeting/register/tZAsfumvqDssGtH1Ev6qNdA-IG0_Xs8p1JJb';">Register</button>
+<p>UPDATE, February 2, 2024: <b>Registration is closed.</b> All available spaces for this Webinar Series have been taken.</p>
 
 ![logos](/assets/images/LogoLockup010924.jpg)
 
