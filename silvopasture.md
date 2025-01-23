@@ -51,7 +51,7 @@ British Columbia agricultural producers attending the webinars will have the opp
 
 ### Registration 
 
-<p>Webinars are free, but space is limited. [Click on this link to access the registration website at Eventbrite](https://www.eventbrite.com/e/silvopasture-in-british-columbia-information-series-tickets-1218589527079).</p>
+<p>Webinars are free, but space is limited. Registration opens soon.</p>
 
 ![logos](/assets/images/LogoLockup010924.jpg)
 
