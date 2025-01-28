@@ -14,7 +14,7 @@ main_nav: true
 
 ### 2025 Silvopasture Webinars
 
-<p>Join us for four nights of free, producer-focused presentations on establishing and mananging a silvopasture in British Columbia. Learn about why it might be, and has been, used:
+<p>Join us for four nights of free, producer-focused presentations on establishing and managing a silvopasture in British Columbia. Learn about why it might be, and has been, used:
 <ul>
     <li>Enhance and diversify production</li>
     <li>Buffer drought, heat and extreme weather</li>
