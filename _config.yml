@@ -51,13 +51,6 @@ ga_tracking_id: "UA-25771851-1"
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: agforinsight
-    url: https://twitter.com/agforinsight
-    desc: Follow me on Twitter
-    share: true
-
   - name: LinkedIn
     icon: linkedin
     username: George Powell
