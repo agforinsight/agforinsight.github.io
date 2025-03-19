@@ -12,7 +12,7 @@ url: "/localhost:4000/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
-theme: minima
+theme: "minima"
 
 # Google analytics
 ga_tracking_id: "UA-25771851-1"
