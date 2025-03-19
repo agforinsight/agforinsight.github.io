@@ -51,8 +51,8 @@ British Columbia agricultural producers attending the webinars will have the opp
 
 ### Registration 
 
-<p>Registration has closed.</p>
-
+<p>Webinars are free, but space is limited.</p>
+<a href="https://www.eventbrite.ca/e/silvopasture-in-british-columbia-information-series-tickets-1218589527079">Click here to access the registration website at Eventbrite.</a>
 
 ![logos](/assets/images/SCAP-BC_CleanBC-Can_Lockup.jpg)
 
