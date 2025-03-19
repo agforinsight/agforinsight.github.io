@@ -1,5 +1,4 @@
 ---
-title: 'Terms of Use'
 layout: page
 permalink: /terms-of-use/
 ---
