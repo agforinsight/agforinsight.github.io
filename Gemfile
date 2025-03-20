@@ -5,8 +5,9 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-# gem "jekyll", "~> 4.3.2"
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "jekyll", "~> 4.3.1"
+# gem "github-pages", "~> 227", group: :jekyll_plugins
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -34,3 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 gem "faraday-retry"
+gem "kramdown-parser-gfm"
