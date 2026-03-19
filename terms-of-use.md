@@ -42,8 +42,8 @@ The laws of the Province of British Columbia and the laws of Canada applicable t
 
 #### Submissions
 
-All information submitted by you through this web site may be used by AgForInsight.com in accordance with the terms of the AgForInsight.com [Privacy Policy](http://www.agforinsight.com/home-2/privacy-policy/).
+All information submitted by you through this web site may be used by AgForInsight.com in accordance with the terms of the AgForInsight.com [Privacy Policy](http://www.agforinsight.com/privacy-policy/).
 
 #### For More Information
 
-Any questions regarding the terms of use, copyright or privacy policy for AgForInsight.com can be directed to the ‘Web Administrator’, [through this contact form](http://www.agforinsight.com/contact/)[.](http://www.agforinsight.com/?page_id=66)
+Any questions regarding the terms of use, copyright or privacy policy for AgForInsight.com can be directed to the ‘Web Administrator’

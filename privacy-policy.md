@@ -70,4 +70,4 @@ The web server hosting AgForInsight.com is configured according to industry best
 
 ### For More Information
 
-Any questions regarding the terms of use, copyright or privacy policy for AgForInsight.com can be directed to the ‘Web Administrator’, [through this contact form](http://www.agforinsight.com/contact/)[.](http://www.agforinsight.com/?page_id=66)
+Any questions regarding the terms of use, copyright or privacy policy for AgForInsight.com can be directed to the ‘Web Administrator’
